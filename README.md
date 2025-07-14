@@ -58,3 +58,15 @@ echo "REACT_APP_GOOGLE_MAPS_API_KEY=your-key-here" > .env
 
 # Start the app
 npm start
+
+🏙️ Why Tempe?
+This app was built with Tempe, Arizona in mind — one of the most bike-friendly cities in the U.S.
+Ideal for students, residents, and tourists looking for scenic and safe biking routes around:
+
+ASU Tempe Campus
+
+Tempe Town Lake
+
+Mill Avenue
+
+Papago Park & more!
